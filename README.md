@@ -1,1 +1,1 @@
-# A Ecommerce website to learn MERN Stack
+# An Ecommerce website to learn MERN Stack
